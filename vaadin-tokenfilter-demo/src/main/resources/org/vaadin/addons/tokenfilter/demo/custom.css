@@ -1,0 +1,13 @@
+
+.v-select-option.red > input ~ label:before { 
+	background-color: red !important;
+}
+
+.v-select-option.blue > input ~ label:before { 
+	background-color: blue !important;
+}
+
+
+.v-select-option.green > input ~ label:before { 
+	background-color: green !important;
+}
